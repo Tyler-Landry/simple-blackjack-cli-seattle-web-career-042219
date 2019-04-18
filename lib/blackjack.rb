@@ -54,6 +54,7 @@ end
 
 def runner
   welcome 
+  until total > 21
   
 end
     
